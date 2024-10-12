@@ -1,0 +1,31 @@
+*{
+    font-family: Jost;
+  }
+.flex-container{
+    display: flex;
+    align-items: center;
+    
+  }
+  .carousel-item{
+    display: flex;
+  }
+
+  .btn-tooltip{
+    background-color: rgba(20,16,36,0.08);
+    border-radius: 100%;
+    font-family: Jost;
+    font-weight: 500;
+    font-size: 12px;
+    padding-bottom: 4px;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    border: 0;
+    text-align: center;
+   margin-bottom: 14px;
+  }
+  .card-header-light{
+    color: #000 !important;
+    z-index: 10000;
+  }
+ 
